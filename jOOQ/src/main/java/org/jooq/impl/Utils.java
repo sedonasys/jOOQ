@@ -472,8 +472,7 @@ final class Utils {
 
         for (int i = 0; i < size; i++)
             if (record.getValue(i) == null)
-                if (!record.field(i).getDataType().nullable())
-                    record.changed(i, false);
+                record.changed(i, false);
     }
 
     /**
