@@ -13,7 +13,7 @@
     <groupId>org.jooq</groupId>
     <artifactId>jooq</artifactId>
     <name>jOOQ</name>
-    <version>3.5.2-sedonasys</version>
+    <version>3.6.1-sedonasys</version>
 
     <licenses>
         <license>
